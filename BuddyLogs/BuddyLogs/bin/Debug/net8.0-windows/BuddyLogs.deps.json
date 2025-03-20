@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BuddyLogs/1.0.0": {
+        "runtime": {
+          "BuddyLogs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BuddyLogs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

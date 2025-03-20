@@ -1,0 +1,16 @@
+C:\Users\tyler\source\repos\BuddyLogs\BuddyLogs\bin\Debug\net8.0-windows\BuddyLogs.exe
+C:\Users\tyler\source\repos\BuddyLogs\BuddyLogs\bin\Debug\net8.0-windows\BuddyLogs.deps.json
+C:\Users\tyler\source\repos\BuddyLogs\BuddyLogs\bin\Debug\net8.0-windows\BuddyLogs.runtimeconfig.json
+C:\Users\tyler\source\repos\BuddyLogs\BuddyLogs\bin\Debug\net8.0-windows\BuddyLogs.dll
+C:\Users\tyler\source\repos\BuddyLogs\BuddyLogs\bin\Debug\net8.0-windows\BuddyLogs.pdb
+C:\Users\tyler\source\repos\BuddyLogs\BuddyLogs\obj\Debug\net8.0-windows\BuddyLogs.Form1.resources
+C:\Users\tyler\source\repos\BuddyLogs\BuddyLogs\obj\Debug\net8.0-windows\BuddyLogs.vbproj.GenerateResource.cache
+C:\Users\tyler\source\repos\BuddyLogs\BuddyLogs\obj\Debug\net8.0-windows\BuddyLogs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tyler\source\repos\BuddyLogs\BuddyLogs\obj\Debug\net8.0-windows\BuddyLogs.AssemblyInfoInputs.cache
+C:\Users\tyler\source\repos\BuddyLogs\BuddyLogs\obj\Debug\net8.0-windows\BuddyLogs.AssemblyInfo.vb
+C:\Users\tyler\source\repos\BuddyLogs\BuddyLogs\obj\Debug\net8.0-windows\BuddyLogs.vbproj.CoreCompileInputs.cache
+C:\Users\tyler\source\repos\BuddyLogs\BuddyLogs\obj\Debug\net8.0-windows\BuddyLogs.dll
+C:\Users\tyler\source\repos\BuddyLogs\BuddyLogs\obj\Debug\net8.0-windows\refint\BuddyLogs.dll
+C:\Users\tyler\source\repos\BuddyLogs\BuddyLogs\obj\Debug\net8.0-windows\BuddyLogs.pdb
+C:\Users\tyler\source\repos\BuddyLogs\BuddyLogs\obj\Debug\net8.0-windows\BuddyLogs.genruntimeconfig.cache
+C:\Users\tyler\source\repos\BuddyLogs\BuddyLogs\obj\Debug\net8.0-windows\ref\BuddyLogs.dll

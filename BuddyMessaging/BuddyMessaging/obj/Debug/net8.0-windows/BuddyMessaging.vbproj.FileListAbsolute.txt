@@ -1,0 +1,17 @@
+C:\Users\tyler\source\repos\BuddyMessaging\BuddyMessaging\bin\Debug\net8.0-windows\BuddyMessaging.exe
+C:\Users\tyler\source\repos\BuddyMessaging\BuddyMessaging\bin\Debug\net8.0-windows\BuddyMessaging.deps.json
+C:\Users\tyler\source\repos\BuddyMessaging\BuddyMessaging\bin\Debug\net8.0-windows\BuddyMessaging.runtimeconfig.json
+C:\Users\tyler\source\repos\BuddyMessaging\BuddyMessaging\bin\Debug\net8.0-windows\BuddyMessaging.dll
+C:\Users\tyler\source\repos\BuddyMessaging\BuddyMessaging\bin\Debug\net8.0-windows\BuddyMessaging.pdb
+C:\Users\tyler\source\repos\BuddyMessaging\BuddyMessaging\obj\Debug\net8.0-windows\BuddyMessaging.Form1.resources
+C:\Users\tyler\source\repos\BuddyMessaging\BuddyMessaging\obj\Debug\net8.0-windows\BuddyMessaging.vbproj.GenerateResource.cache
+C:\Users\tyler\source\repos\BuddyMessaging\BuddyMessaging\obj\Debug\net8.0-windows\BuddyMessaging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tyler\source\repos\BuddyMessaging\BuddyMessaging\obj\Debug\net8.0-windows\BuddyMessaging.AssemblyInfoInputs.cache
+C:\Users\tyler\source\repos\BuddyMessaging\BuddyMessaging\obj\Debug\net8.0-windows\BuddyMessaging.AssemblyInfo.vb
+C:\Users\tyler\source\repos\BuddyMessaging\BuddyMessaging\obj\Debug\net8.0-windows\BuddyMessaging.vbproj.CoreCompileInputs.cache
+C:\Users\tyler\source\repos\BuddyMessaging\BuddyMessaging\obj\Debug\net8.0-windows\BuddyMessaging.dll
+C:\Users\tyler\source\repos\BuddyMessaging\BuddyMessaging\obj\Debug\net8.0-windows\refint\BuddyMessaging.dll
+C:\Users\tyler\source\repos\BuddyMessaging\BuddyMessaging\obj\Debug\net8.0-windows\BuddyMessaging.pdb
+C:\Users\tyler\source\repos\BuddyMessaging\BuddyMessaging\obj\Debug\net8.0-windows\BuddyMessaging.genruntimeconfig.cache
+C:\Users\tyler\source\repos\BuddyMessaging\BuddyMessaging\obj\Debug\net8.0-windows\ref\BuddyMessaging.dll
+C:\Users\tyler\source\repos\BuddyMessaging\BuddyMessaging\bin\Debug\net8.0-windows\BuddyMessaging.dll.config
